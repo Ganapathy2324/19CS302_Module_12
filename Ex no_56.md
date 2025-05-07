@@ -1,4 +1,4 @@
-# EX 56 A function to display stack elements using Linked List.(store integer data in stack) .
+# EX 56 A function to display stack elements using Linked List.(store float data in stack) .
 ## DATE:
 ## AIM:
 To write a C function to display stack elements using Linked List.
