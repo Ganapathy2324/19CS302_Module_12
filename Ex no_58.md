@@ -21,7 +21,7 @@ To write a C Function to display queue elements using Linked List.
 7. Continue until `temp` becomes `NULL`.  
 8. **End**  
 
-This algorithm efficiently traverses and prints all queue elements using a linked list. Want a full implementation with enqueue and dequeue functions? 🚀
+
 
 
 ## Program:
